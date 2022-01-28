@@ -1,4 +1,4 @@
-- Привет Hi, I'm @LexusEgorov
+- Hi, I'm @LexusEgorov
 - 👀 I am interested in hockey and web development
 - 🌱 I am currently learning to make up and develop applications for React
 - 💞️ I am looking for opportunities for collaboration that will help me grow as a programmer
